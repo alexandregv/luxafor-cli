@@ -5,6 +5,7 @@ A dead simple CLI for Luxafor.
 ### Installation
 
 ```
+# download from GitHub Releases, or
 go install github.com/alexandregv/luxafor-cli@latest
 # or
 docker pull alexandregv/luxafor-cli
